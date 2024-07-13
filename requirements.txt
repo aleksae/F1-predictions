@@ -1,0 +1,8 @@
+flask
+flask-sqlalchemy
+flask-migrate
+requests
+pyspark
+psycopg2-binary
+pycountry
+sklearn 
